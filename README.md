@@ -8,7 +8,8 @@
     !pip install dense-basis
     !pip install embeddings
     !pip install embed
-
+    !pip install keras-on-lstm
+    
 ---------------------------------------------------------------------------
 **cannot import name 'pad_sequences' from 'keras.preprocessing.sequence'**
 
