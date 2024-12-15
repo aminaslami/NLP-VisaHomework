@@ -7,6 +7,7 @@
     !pip install tensorflow
     !pip install dense-basis
     !pip install embeddings
+    !pip install embed
 
 ---------------------------------------------------------------------------
 **cannot import name 'pad_sequences' from 'keras.preprocessing.sequence'**
