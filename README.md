@@ -4,6 +4,7 @@
 
 ### Requirment Library.
     !pip install pad-sequences
+    !pip install tensorflow
 
 ---------------------------------------------------------------------------
 **cannot import name 'pad_sequences' from 'keras.preprocessing.sequence'**
