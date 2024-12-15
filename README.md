@@ -5,6 +5,7 @@
 ### Requirment Library.
     !pip install pad-sequences
     !pip install tensorflow
+    !pip install dense-basis
 
 ---------------------------------------------------------------------------
 **cannot import name 'pad_sequences' from 'keras.preprocessing.sequence'**
