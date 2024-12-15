@@ -9,6 +9,7 @@
     !pip install embeddings
     !pip install embed
     !pip install keras-on-lstm
+    !pip install lstm
     
 ---------------------------------------------------------------------------
 **cannot import name 'pad_sequences' from 'keras.preprocessing.sequence'**
