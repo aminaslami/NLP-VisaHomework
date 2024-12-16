@@ -14,7 +14,7 @@
 
 When you installing the library maybe you get some error.
 
-Please search on internet, then solve the issue.
+Please search on internet, then solve the issue. Because the version on library will be different.
 
 
 ---------------------------------------------------------------------------
