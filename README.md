@@ -12,7 +12,7 @@
     !pip install lstm
     !pip install gru
 
-When you installing the library 
+When you installing the library maybe you get some error.
 
 
 ---------------------------------------------------------------------------
