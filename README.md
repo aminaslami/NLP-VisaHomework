@@ -13,6 +13,7 @@
     !pip install gru
 
 When you installing the library maybe you get some error.
+Please search on internet
 
 
 ---------------------------------------------------------------------------
