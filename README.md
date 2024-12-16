@@ -1,4 +1,4 @@
-# NLP-VisaHomework - Using LSTM & 
+# NLP-VisaHomework - Using LSTM & GRU
 
 ### Source: https://github.com/javaidnabi31/Word-Embeddding-Sentiment-Classification
 
