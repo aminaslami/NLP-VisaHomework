@@ -11,7 +11,10 @@
     !pip install keras-on-lstm
     !pip install lstm
     !pip install gru
-    
+
+When you installing the library 
+
+
 ---------------------------------------------------------------------------
 **cannot import name 'pad_sequences' from 'keras.preprocessing.sequence'**
 
